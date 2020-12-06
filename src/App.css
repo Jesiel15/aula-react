@@ -1,0 +1,11 @@
+#app {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 60px 30px;
+
+    display: flex;
+    /*para tudo fique na mesma na linha*/
+    flex-direction: row;
+    /*para alinha ao top (tag: asides e main)*/
+    align-items: flex-start;
+}
